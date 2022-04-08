@@ -41,6 +41,7 @@
         },
         "Network": {
             "Realtek 8139": "https://dl.bobpony.com/drivers/network/Realtek8139.zip"
+	    "TP-Link W823N": "https://cdn.discordapp.com/attachments/704790361821675550/961961922595536926/TL-WN823N_Driver.zip"
         },
         "USB Storage for Windows 98": {
             "33e": "https://dl.bobpony.com/drivers/usbstorage/nusb33e.exe",
